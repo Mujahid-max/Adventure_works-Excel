@@ -1,5 +1,7 @@
 # Sales Analysis Project 📊🚀
 
+![Dashboard preview](https://github.com/Mujahid-max/Adventure_works-Excel/blob/115c32301bf3c106750156be0d063a78e2c7905e/Screenshot%202025-01-09%20002616.png)
+
 This project involves analyzing the attached sales data to extract actionable insights. Below are the steps performed, along with the desired outputs.
 
 ---
